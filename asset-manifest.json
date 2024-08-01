@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PRAVEENPORT/static/css/main.0eb85fb3.css",
+    "main.js": "/PRAVEENPORT/static/js/main.f7791616.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PRAVEENPORT/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PRAVEENPORT/static/js/787.1ed0c42c.chunk.js",
+    "static/media/rendom colour.png": "/PRAVEENPORT/static/media/rendom colour.941b573c258ae8bcc437.png",
+    "static/media/calculator.png": "/PRAVEENPORT/static/media/calculator.3893b98c3bbab22a75c6.png",
+    "static/media/analogclock.png": "/PRAVEENPORT/static/media/analogclock.b436440b1107e17548c0.png",
+    "static/media/Praveen Resume.pdf": "/PRAVEENPORT/static/media/Praveen Resume.f48b812d9580ef140ea5.pdf",
+    "static/media/home-main.svg": "/PRAVEENPORT/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/PRAVEENPORT/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/PRAVEENPORT/static/media/logo.7ae2ffd6bf642cce3f31.png",
+    "static/media/home-bg.jpg": "/PRAVEENPORT/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/PRAVEENPORT/static/media/avatar.d8dd18e69264fa7a8306764122038dfd.svg",
+    "static/media/pre.svg": "/PRAVEENPORT/static/media/pre.ed92f4cfc26fe678368e.svg",
+    "index.html": "/PRAVEENPORT/index.html",
+    "main.0eb85fb3.css.map": "/PRAVEENPORT/static/css/main.0eb85fb3.css.map",
+    "main.f7791616.js.map": "/PRAVEENPORT/static/js/main.f7791616.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PRAVEENPORT/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PRAVEENPORT/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb85fb3.css",
+    "static/js/main.f7791616.js"
+  ]
+}
